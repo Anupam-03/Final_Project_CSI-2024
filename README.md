@@ -66,7 +66,7 @@ To run this application locally, follow these steps:
    http://localhost:<your_port_number>
    ```
 
-## API Working Demo
+## API Working Demo (Backend)
 
 ### User Endpoints
 
@@ -154,3 +154,4 @@ To run this application locally, follow these steps:
    
   ![image](https://github.com/user-attachments/assets/f96b727f-c802-4304-8351-074213f35c74)
 
+## Frontend Demo Coming soon!
